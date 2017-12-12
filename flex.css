@@ -1,0 +1,16 @@
+.parent{
+    background: navajowhite;
+    display: flex;
+}
+.First{
+    flex: 1;
+    order: 1;
+}
+.Second{
+    flex: 1;
+    order: 3;
+}
+.main {
+    flex: 2;
+    order: 2;
+}
